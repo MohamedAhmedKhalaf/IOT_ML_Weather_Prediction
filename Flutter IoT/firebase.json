@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "project-iot-53d67",
+          "appId": "1:822823972570:android:3f470b73f09979afd23fe3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "project-iot-53d67",
+          "appId": "1:822823972570:ios:303b1bad46896085d23fe3",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "project-iot-53d67",
+          "appId": "1:822823972570:ios:303b1bad46896085d23fe3",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "project-iot-53d67",
+          "configurations": {
+            "android": "1:822823972570:android:3f470b73f09979afd23fe3",
+            "ios": "1:822823972570:ios:303b1bad46896085d23fe3",
+            "macos": "1:822823972570:ios:303b1bad46896085d23fe3",
+            "web": "1:822823972570:web:4623d64a7ea65a22d23fe3",
+            "windows": "1:822823972570:web:18c5a5b02f34d70dd23fe3"
+          }
+        }
+      }
+    }
+  }
+}
